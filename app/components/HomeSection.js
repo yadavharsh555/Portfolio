@@ -19,7 +19,7 @@ const HomeSection = () => {
       >
         <p className="text-yellow-400 text-lg">HELLO!</p>
         <h1 className="text-5xl font-bold">
-          I'm <span className="text-yellow-400">Harsh Yadav</span>
+          I&#39;m <span className="text-yellow-400">Harsh Yadav</span>
         </h1>
         <p className="text-gray-400 text-lg mt-2">A Python & Web Developer</p>
 
