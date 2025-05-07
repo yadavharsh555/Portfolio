@@ -22,12 +22,6 @@ export default function ProjectsSection() {
             link: "https://github.com/yadavharsh555/farmconnect"
           },
           {
-            title: "🎵 Music Player",
-            description: "Fetches songs from MongoDB API and plays them in a web-based UI.",
-            tech: "React.js, Node.js, Express.js, MongoDB, Tailwind CSS",
-            link: "https://github.com/yadavharsh555/music-player"
-          },
-          {
             title: "🔗 QR Code Generator",
             description: "Built using Flask and Python to generate scannable QR codes.",
             tech: "Python, Flask, HTML, CSS",
